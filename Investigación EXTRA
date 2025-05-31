@@ -1,0 +1,4 @@
+Github pages es un gestor de página web directamenete implementado en GITHUB. El cual se hace cargo de administar HTML, CSS y JS directamente desde las bibliotecas de un repositorio dentro de GITHUB.
+Es tan sencillo commo crear un repositorio con un nombre que termine con extensión .io, meter todos los elementos necesarios para poder correr la página (HTML, CSS y JS), y supongo que funciona de 
+forma muy parecida a pythonanywhere, solo que probablemente no sea tan completo.
+Github actions es el simil de microsoft agents, es un sistema automatizable de tareas de Github, pudiendo automatizar una gran variedad de tareas.
