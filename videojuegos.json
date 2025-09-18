@@ -1,4 +1,4 @@
-const games = [
+[
   {
     "id_game": 1,
     "title": "Mario Bros.",
